@@ -1,5 +1,7 @@
-# moskas readme generator 
-generates an easy to use readme
+# Moska’s README.md Generator
+An easy to use readme generator. 
+
+![MIT](https://img.shields.io/badge/license-MIT-green)
 
 # Table of Contents
 
@@ -21,13 +23,13 @@ To install required dependencies, run the following command:
 ```
 
 ## Usage
-user can create readme file 
+README.md generator is used so user can save time on creating README.md files. 
 
 ## Contribution
-make it their own
+User can answer the questions generated to create a README file for their project.
 
 ## Tests
-no 
+The README Generator.
 
 ## Questions
-no
+If you have any questions, please feel free to reach out to me via [GitHub](https://github.com/No tests available at this current time. MoskaDowlatzay ) or email at Moskadowlatzay@hotmail.comMoskadowlatzay@hotmail.com.

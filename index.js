@@ -92,5 +92,5 @@ function init() {
     })
 }
 
-// Initialize the app by running `node index` in terminal
+// Initialize the app by running `node index.js` in terminal
 init(); 
