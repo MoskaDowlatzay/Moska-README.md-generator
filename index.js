@@ -44,8 +44,13 @@ const questions = [
     },
     {
         type: "input", 
-        name: "questions",
-        message: "Questions?",
+        name: "githubUsername",
+        message: "What is your GitHub username?",
+    },
+    {
+        type: "input", 
+        name: "email",
+        message: "What is your email address?",
     },
 ];
 // Function to generate the table of contents

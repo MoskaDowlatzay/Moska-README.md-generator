@@ -1,5 +1,5 @@
-# Moskas README.md generator
-Generate a quick README file for future projects
+# moskas readme generator 
+generates an easy to use readme
 
 # Table of Contents
 
@@ -12,22 +12,22 @@ Generate a quick README file for future projects
 
 
 ## License
-This project is licensed under the Apache License 2.0 license.
+This project is licensed under the MIT license.
 
 ## Installation
 To install required dependencies, run the following command:
 ```
-jhbkfmd
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 ```
 
 ## Usage
-jbdnfs
+user can create readme file 
 
 ## Contribution
- ndfsm
+make it their own
 
 ## Tests
- ds
+no 
 
 ## Questions
-ghj
+no
